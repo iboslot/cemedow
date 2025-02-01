@@ -1,41 +1,4 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Panduan lengkap slot gacor dengan RTP slot gacor hari ini dan strategi menang besar!">
-    <meta name="keywords" content="slot gacor, slot 5000, rtp slot, rtp live, rtp slot gacor hari ini, rtp slot gacor">
-    <title>Rahasia Slot Gacor dan RTP Slot Hari Ini!</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            margin: auto;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        p {
-            line-height: 1.6;
-            color: #666;
-        }
-        .highlight {
-            color: #e44d26;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
+ <div class="container">
         <h1>Rahasia Slot Gacor dan RTP Slot Hari Ini!</h1>
         <p>Bro, lo pernah kepikiran kenapa ada yang bisa menang terus pas main <span class="highlight">slot gacor</span>, tapi ada juga yang apes mulu? Nah, gue bakal bongkar rahasia buat lo biar bisa dapet <span class="highlight">RTP slot gacor hari ini</span> dan menang lebih banyak!</p>
         
