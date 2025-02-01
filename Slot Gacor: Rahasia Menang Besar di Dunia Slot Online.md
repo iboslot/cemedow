@@ -37,6 +37,5 @@
             <ul>
                 <li><strong>Cek RTP Slot:</strong> Seperti yang tadi udah dibahas, selalu pilih mesin dengan RTP tinggi. Biasanya di atas 96% udah oke.</li>
                 <li><strong>Manfaatin Fitur Demo:</strong> Sebelum main pake duit asli, coba dulu versi demo-nya. Ini buat ngeliat pola permainan dan seberapa sering mesin ngasih kemenangan.</li>
-                <li><strong>Perhatiin Jam Main:</strong> Beberapa pemain percaya kalo ada jam-jam tertentu di mana mesin lebih sering ngasih jackpot. Meskipun belum ada bukti ilmiahnya
-::contentReference[oaicite:0]{index=0}
+                <li><strong>Perhatiin Jam Main:</strong> Beberapa pemain percaya kalo ada jam-jam tertentu di mana mesin lebih sering ngasih jackpot. Meskipun belum ada bukti ilmiahnya</li>
  
