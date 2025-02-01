@@ -12,14 +12,12 @@
             <li>Wild West Gold - RTP: 96.8%</li>
             <li>Bonanza Gold - RTP: 96.5%</li>
         </ul>
-        
         <h2>Tips dan Trik Slot Gacor</h2>
         <ol>
             <li>Jangan main terus-terusan di satu mesin, coba ganti setelah 20 spin.</li>
             <li>Manfaatkan promo dan bonus dari platform biar modal makin panjang.</li>
             <li>Pilih game dengan fitur buy spin untuk hasil lebih cepat.</li>
         </ol>
-        
         <h2>Kesimpulan</h2>
         <p>Jadi, kalau lo pengen gacor terus, pastiin lo update info <span class="highlight">rtp slot</span>, pilih game dengan RTP tinggi, dan pake strategi yang bener. Jangan cuma gas doang, tapi main pinter biar cuan makin deras!</p>
     </div>
