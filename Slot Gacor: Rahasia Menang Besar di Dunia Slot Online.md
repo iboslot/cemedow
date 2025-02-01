@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Slot Gacor: Rahasia Menang Besar di Dunia Slot Online</title>
-    <meta name="description" content="Temukan rahasia slot gacor, slot 5000, RTP slot, RTP live, dan tips untuk menang besar di dunia slot online.">
-    <meta name="keywords" content="slot gacor, slot 5000, RTP slot, RTP live, RTP slot gacor hari ini, RTP slot gacor">
-    <style>
+<style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
